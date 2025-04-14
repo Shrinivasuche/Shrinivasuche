@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Shrinivasuche/Shrinivasuche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shrinivas!
+I’m passionate about backend development, Node.js, and building clean, functional projects.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 Languages: JavaScript, HTML, CSS
+- ⚙️ Frameworks: Node.js, Express
+- 💾 Database: MongoDB, PostgreSQL
+- ☁️ Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+### 🚀 [Express Digi](https://github.com/Shrinivasuche/express-digi)
+A backend project demonstrating logging, express routing, and more.
+
+### 🌐 [Online Petition Management System](https://github.com/your-repo-link)
+Manage user petitions with animations and signature canvas.
+
+## 📫 Reach Me
+- 📧 Email: shrinivasuche@gmail.com
